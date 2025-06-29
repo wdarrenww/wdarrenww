@@ -147,8 +147,6 @@ I'm a passionate developer who loves creating innovative solutions and pushing t
   
 **Feel free to reach out if you'd like to collaborate on exciting projects!** 🤝
 
-![Snake animation](https://github.com/wdarrenww/wdarrenww/blob/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 ---
