@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wdarrenww&style=flat-square&color=6366F1" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-22C55E?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Global%20%F0%9F%8C%8D-blue?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-United-States%20%F0%9F%8C%8D-blue?style=flat-square" alt="Location" />
 </div>
 
 ---
