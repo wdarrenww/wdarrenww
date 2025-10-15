@@ -1,158 +1,43 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Darren+Wei;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wdarrenww&style=flat-square&color=6366F1" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-22C55E?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-United%20States%20%F0%9F%87%BA%F0%9F%87%B8-blue?style=flat-square" alt="Location" />
-</div>
+  <!-- Banner Image -->
+  <p align="center">
+    <img src="https://media.discordapp.net/attachments/1103870377211465818/1428120994735984670/imgbanner.png?ex=68f158d2&is=68f00752&hm=725d755dcbebe2a6a2a5bc108f5cc4e2700ccb8768c2ff5db9cb98c60f858aad&=&format=webp&quality=lossless&width=2400&height=800" alt="Banner" width="800px">
+  </p>
 
----
+  <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wdarrenww&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="GitHub Stats" />
-</div>
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=4000&pause=1000&color=A7A459&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Darren.;I'm+a+software+developer.;Welcome+to+my+GitHub+profile."/>
 
----
-
-## 🚀 About Me
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wdarrenww&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1&dates=6366F1" alt="GitHub Streak" />
-</div>
-
-I'm a passionate developer who loves creating innovative solutions and pushing the boundaries of technology. When I'm not coding, you can find me exploring new technologies, contributing to open source, or playing a fun game of chess.
-
-### 🎯 What I'm Currently Working On
-- 🔥 Building a full imputer library for ML
-- 🌟 Contributing to open source projects
-- 📚 Learning new technologies and frameworks
-- 🚀 Creating innovative solutions
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
+  <br>
   
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  <!-- About Me -->
+  <pre>
+    💻 `C#` • `C++` • `Go` • `Python` • `React`
+    🌱 Always learning and exploring new technologies.
+  </pre>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  ---
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdarrenww&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
+  ### 📊 My `GitHub` Stats &nbsp;
+  <p align="center">
+    <a href="https://github.com/wdarrenww">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=wdarrenww&show_icons=true&hide_border=true&theme=dracula&rank_icon=github" />
+    </a>
+    <a href="https://github.com/wdarrenww">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdarrenww&layout=compact&hide_border=true&theme=dracula" />
+    </a>
+  </p>
   
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **Quiply** | A revolutionary web freelancer portal | React, Next.js, ShadCN, Node.js, Supabase | 🚀 Active |
-| **Implyo** | Advanced imputation | Python | 🔄 In Progress |
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wdarrenww&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
+  ---
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wwdarrenwei@gmail.com)
-
-</div>
-
----
-
-## 🎨 Random Dev Quote
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🎯 Current Goals
-- [ ] Contribute to 100+ open source projects
-- [ ] Build a successful SaaS platform
-- [ ] Creating useful and impactful ML applications
-
-### 📚 Currently Learning
-- **Advanced AI/ML** - Exploring cutting-edge AI technologies
-- **System Design** - Mastering scalable architecture patterns
-- **DevOps** - Automating deployment pipelines
-
-</div>
-
----
-
-<div align="center">
-  
-### 🌟 Fun Facts
-- 🎮 I can solve a Rubik's cube in under 1 minute
-- 🌍 I've visited 15+ countries
-- 📖 I read 50+ books per year
-- 🎵 I play violin and piano
-
-</div>
-
----
-
-<div align="center">
-  
-### 🚀 Quick Stats
-![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdarrenww&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🎉 Thanks for visiting my profile!
-  
-**Feel free to reach out if you'd like to collaborate on exciting projects!** 🤝
-
-</div>
-
----
-
-<div align="center">
-  
-⭐ **If you found this profile helpful, please give it a star!** ⭐
+  ### 📫 Get In Touch
+  <p align="center">
+    <a href="mailto:wwdarrenwei@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/discord-stitchsages-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </p>
 
 </div>
