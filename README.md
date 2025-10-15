@@ -14,7 +14,7 @@
   
   <!-- About Me -->
   <pre>
-    College student at Dartmouth @ pre-med. 
+    College student at Dartmouth @ pre-med (Go Big Green).
     I love helping others out and being a leader in everything.
   </pre>
   <pre>
