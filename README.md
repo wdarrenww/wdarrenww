@@ -14,7 +14,8 @@
   
   <!-- About Me -->
   <pre>
-    College student at Dartmouth @ pre-med. I love helping others out and being a leader in everything.
+    College student at Dartmouth @ pre-med. 
+    I love helping others out and being a leader in everything.
   </pre>
   <pre>
     💻 C# • C++ • Go • Python • React
