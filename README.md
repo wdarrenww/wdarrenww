@@ -15,15 +15,13 @@
   <!-- About Me -->
   <pre>
     College student at Dartmouth @ pre-med (Go Big Green).
-    I love helping others out and being a leader in everything.
-  </pre>
+    I love helping others out and being a leader in everything.</pre>
   <pre>
     💻 C# • C++ • Go • Python • React
     🌱 Always learning and exploring new technologies.
     
     🚀 Currently working on agentic AI and collaborating on open-source
-    🔧 Enjoys tinkering with websites and lower level programming
-  </pre>
+    🔧 Enjoys tinkering with websites and lower level programming</pre>
 
   ---
 
