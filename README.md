@@ -2,7 +2,7 @@
 
   <!-- Banner Image -->
   <p align="center">
-    <img src="https://media.discordapp.net/attachments/1103870377211465818/1428120994735984670/imgbanner.png?ex=68f158d2&is=68f00752&hm=725d755dcbebe2a6a2a5bc108f5cc4e2700ccb8768c2ff5db9cb98c60f858aad&=&format=webp&quality=lossless&width=2400&height=800" alt="Banner" width="800px">
+    <img src="imgbanner.png" alt="Banner" width="800px">
   </p>
 
   <br>
